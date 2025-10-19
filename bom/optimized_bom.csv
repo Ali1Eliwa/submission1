@@ -1,0 +1,9 @@
+Part,Description,Quantity,Estimated Unit Price (EGP),Total Price (EGP)
+ATmega328P-PU Microcontroller IC,Replaces the entire Arduino board for a final product,1,90,90
+16MHz Crystal Oscillator,Provides a stable clock signal for the microcontroller,1,2,2
+22pF Capacitor,Required for the crystal oscillator,2,0.5,1
+DC Power Jack,"To connect a dedicated power supply (e.g., 9V adapter)",1,3,3
+220 Ohm Resistor,Current limiting for the LED,1,1,1
+Push Button (4-pin),User input switch,1,2,2
+Red LED,User feedback indicator,2,1,2
+**TOTAL**,,,,*101.0*
